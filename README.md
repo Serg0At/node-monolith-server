@@ -89,6 +89,16 @@ Monolith structured like microservices internally → easier scaling & future mi
 
 ---
 
+## 📊 Performance
+
+* ~150–250 requests/sec sustained
+* WebSocket server supports 300+ concurrent connections
+* Stable real-time data streaming under continuous load
+
+Tested with concurrent REST + WebSocket traffic
+
+---
+
 ## 🚀 Why This Project
 
 Demonstrates:
